@@ -19,6 +19,15 @@
   },
   {
     "id": 3,
+    "name": "Taco Tribe Activity Book: Volume 1",
+    "category": ["Amazon"],
+    "img_url": "https://m.media-amazon.com/images/I/61ZIvXKqpLL._SY466_.jpg",
+    "product_url": "https://www.amazon.com/dp/B09WZG386M?th=1&psc=1&geniuslink=true",
+    "price": 9.99,
+    "currency": "$"
+  },
+  {
+    "id": 4,
     "name": "Taco Tribe Activity Book: Volume 2",
     "category": ["Amazon"],
     "img_url": "https://m.media-amazon.com/images/I/71oxb-WIeAL._SY466_.jpg",
@@ -27,7 +36,7 @@
     "currency": "$"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Taco Tribe Activity Book: Volume 2.5",
     "category": ["Amazon"],
     "img_url": "https://m.media-amazon.com/images/I/619VmPAYJXL._SY466_.jpg",
