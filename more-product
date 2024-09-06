@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Taco Tribe Playing Cards",
+    "category": ["Card Games"],
+    "img_url": "https://s3.amazonaws.com/files.thegamecrafter.com/e1a462995f68efb7f147e82d483a5eb308d304f7",
+    "product_url": "https://www.thegamecrafter.com/games/taco-tribe-playing-cards",
+    "price": 16.99,
+    "currency": "$"
+  },
+  {
+    "id": 2,
+    "name": "Taco Party",
+    "category": ["Card Games"],
+    "img_url": "https://s3.amazonaws.com/files.thegamecrafter.com/bbf29b5c3808254bf00d3cd772d62f94ed0685ee",
+    "product_url": "https://www.thegamecrafter.com/games/taco-party",
+    "price": 55.99,
+    "currency": "$"
+  },
+  {
+    "id": 3,
+    "name": "Taco Tribe Activity Book: Volume 2",
+    "category": ["Amazon"],
+    "img_url": "https://m.media-amazon.com/images/I/71oxb-WIeAL._SY466_.jpg",
+    "product_url": "https://www.amazon.com/dp/B0BPRTPNRQ?th=1&psc=1&geniuslink=true",
+    "price": 9.99,
+    "currency": "$"
+  },
+  {
+    "id": 4,
+    "name": "Taco Tribe Activity Book: Volume 2.5",
+    "category": ["Amazon"],
+    "img_url": "https://m.media-amazon.com/images/I/619VmPAYJXL._SY466_.jpg",
+    "product_url": "https://www.amazon.com/dp/B0BTGFTTGR?th=1&psc=1&geniuslink=true",
+    "price": 14.99,
+    "currency": "$"
+  }
+]
